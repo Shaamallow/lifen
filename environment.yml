@@ -1,6 +1,0 @@
-name: lifen
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-prefix: /home/shaamallow/.miniforge3/envs/lifen
